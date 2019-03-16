@@ -1,0 +1,12 @@
+{
+    "name": "roon-extension-test",
+    "version": "1.0.0",
+    "description": "Roon Extension to test using Roon API",
+    "main": "app.js",
+    "author": "Elvis Presley",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "node-roon-api": "github:roonlabs/node-roon-api",
+        "node-roon-api-status": "github:roonlabs/node-roon-api-status"
+    }
+}
