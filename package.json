@@ -2,7 +2,6 @@
   "name": "fetch-quotes",
   "version": "1.0.0",
   "description": "Fetch stock quotes",
-  "main": "index.js",
   "scripts": {
     "start": "ts-node server.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
